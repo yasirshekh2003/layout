@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.contanier{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
+.number{
+    overflow: auto;
+    margin: 0px -15px;
+}
+.header{
+    background-color: rgb(2, 35, 24);
+}
+.logo{
+    float: left;
+   
+    padding: 30px 20px 30px 20px ;
+    font-size: 20px;
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+}
+
+.list li{
+    float: right;
+   font-size: 20px;
+    list-style: none;
+   
+    
+}
+.text-white{
+    color: white;
+    padding: 30px;
+    display: inline-block;
+}
+.about{
+    padding:100px 0;
+}
+.overflow{
+    overflow: auto;
+    margin:0px -15px;
+}
+.colum{
+    padding:0px 15px;
+    float: left;
+    width: 33.34%;
+}
+.box{
+    border: 3px solid rgb(122, 122, 122);
+    border-radius: 3px;
+    background-color: white;
+    text-align: center;
+    padding: 30px 20px ;
+    font-family: Arial, Helvetica,sans-serif;
+    
+}
+.box i{
+font-size: 100px;
+}
+.box h4{
+font-size: 60px;
+margin: 10px 0px 10px 0px ;
+
+}
+.box p{
+    font-size: 20px;
+}
+.button{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius:  50px;
+    display: block;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    padding: 10px 0px 10px 0px;
+    margin:30px 0px 20px 0px ;
+    
+    
+}
