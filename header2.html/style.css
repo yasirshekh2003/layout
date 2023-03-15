@@ -1,0 +1,50 @@
+*{
+    padding:0px ;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+background-color:rgba(232, 15, 171, 0.516);
+}
+ul,li{
+    list-style: none;
+    display: inline-block;
+ }
+.contanier{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.number{
+    overflow: auto;
+}
+
+
+.text-white{
+    color: rgb(0, 178, 248);
+}
+ul li a{
+    display: inline-block;
+    padding: 30px 20px;
+}
+.hello{
+float: right;
+font-size:150%;
+}
+a{
+    display: inline-block;
+    color:rgb(0, 187, 255);
+    padding-left: 5px;
+}
+.icon{
+    color:rgb(243, 243, 32);
+    display: inline-block;
+    padding:30px 20px;
+    float: left;
+    font-size: 150%;
+}
